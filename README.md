@@ -1,4 +1,4 @@
-# core-strengths
+# Kernkwaliteiten
 
 **Hi Scrum Facilitators!**
 
